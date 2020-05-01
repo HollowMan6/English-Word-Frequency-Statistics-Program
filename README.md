@@ -20,7 +20,7 @@
 
 ## 测试：
 
-使用莎士比亚戏剧文章进行了测试，这里附上[测试样例](shakespeare.txt)以及[测试结果](count.txt)
+使用莎士比亚戏剧文章进行了测试，这里附上[测试样例](test/shakespeare.txt)以及[测试结果](test/count.txt)
 
 # English Word Frequency Statistics Program
 
@@ -32,4 +32,4 @@ Use the improved two fork search tree to store words and the number of times the
 
 ## Test:
 
-Test using Shakespeare's drama. Here are the [sample](shakespeare.txt) and [test result](count.txt).
+Test using Shakespeare's drama. Here are the [sample](test/shakespeare.txt) and [test result](test/count.txt).
