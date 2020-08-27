@@ -2,6 +2,7 @@
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/English-Word-Frequency-Statistics-Program)](../../graphs/commit-activity)
 [![release-date](https://img.shields.io/github/release-date/HollowMan6/English-Word-Frequency-Statistics-Program)](../../releases)
+![C/C++ CI](https://github.com/HollowMan6/English-Word-Frequency-Statistics-Program/workflows/C/C++%20CI/badge.svg)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![watchers](https://img.shields.io/github/watchers/HollowMan6/English-Word-Frequency-Statistics-Program?style=social)](../../watchers)
